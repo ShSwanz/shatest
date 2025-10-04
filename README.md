@@ -12,7 +12,7 @@
 - Maven
 - JSP
 - Tomcat
-- MySQL
+- MySQL Database
 - Memcached
 - Rabbitmq
 - ElasticSearch
